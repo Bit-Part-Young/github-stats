@@ -4,10 +4,10 @@
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
 <a href="https://github.com/Bit-Part-Young/github-stats">
-<img src="https://github.com/Bit-Part-Young/github-stats/tree/main/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Bit-Part-Young/github-stats/tree/main/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/Bit-Part-Young/github-stats/tree/main/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/Bit-Part-Young/github-stats/tree/main/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github.com/Bit-Part-Young/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Bit-Part-Young/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/Bit-Part-Young/github-stats/blob/main/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/Bit-Part-Young/github-stats/blob/main/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
